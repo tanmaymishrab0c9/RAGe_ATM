@@ -1,0 +1,12 @@
+# Backend
+rage_backend/venv/
+rage_backend/__pycache__/
+rage_backend/.env
+
+# Frontend
+rage_frontend/node_modules/
+rage_frontend/.next/
+
+# General
+*.pyc
+.DS_Store
