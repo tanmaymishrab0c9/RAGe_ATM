@@ -3,7 +3,13 @@
 > A full-stack Retrieval-Augmented Generation (RAG) application — upload PDFs, store semantic embeddings in PostgreSQL + pgvector, and ask AI-powered questions grounded in your documents using the Gemini API.
  
 ---
- 
+
+<img width="1874" height="797" alt="Screenshot 2026-05-25 213321" src="https://github.com/user-attachments/assets/49dc158b-6b2f-4106-a5e1-b9eb7c9dd4c4" />
+
+---
+
+<img width="1880" height="739" alt="Screenshot 2026-05-25 213341" src="https://github.com/user-attachments/assets/da631c9b-16f7-4c8f-8ea4-21dd2eb4e1e0" />
+
 ## Features
  
 - **PDF Upload & Ingestion** — Drag-and-drop PDF processing pipeline
